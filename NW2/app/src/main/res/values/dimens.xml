@@ -8,7 +8,7 @@
     <dimen name="multiplication">30sp</dimen>
     <dimen name="percent">30sp</dimen>
     <dimen name="correct_button">30sp</dimen>
-    <dimen name="textNums">50sp</dimen>
+    <dimen name="textSize">30sp</dimen>
 
 
 </resources>

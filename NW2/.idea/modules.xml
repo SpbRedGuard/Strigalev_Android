@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidCalc.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidCalc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidCalc.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidCalc.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NW2.AndroidCalc.iml" filepath="$PROJECT_DIR$/.idea/modules/NW2.AndroidCalc.iml" />
     </modules>
   </component>
 </project>
