@@ -11,8 +11,18 @@
     <string name="_9">9</string>
     <string name="_0">0</string>
     <string name="_point">.</string>
-    <string name="_addition">+</string>
-    <string name="_subtraction">subtraction</string>
     <string name="subtraction">-</string>
     <string name="equality">=</string>
+    <string name="addition">+</string>
+    <string name="division">/</string>
+    <string name="multiplication">x</string>
+    <string name="percent">%</string>
+    <string name="cancel_button">c</string>
+    <string name="correct_button"><![CDATA[<]]></string>
+    <string name="_00">00</string>
+    <string name="different_style_first">different_style_first</string>
+    <string name="appthemelight">AppThemeLight</string>
+    <string name="settings">settings</string>
+
+
 </resources>

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="button_text">30sp</dimen>
+    <dimen name="addition">30sp</dimen>
+    <dimen name="subtraction">30sp</dimen>
+    <dimen name="point">30sp</dimen>
+    <dimen name="division">30sp</dimen>
+    <dimen name="multiplication">30sp</dimen>
+    <dimen name="percent">30sp</dimen>
+    <dimen name="correct_button">30sp</dimen>
+    <dimen name="textSize">30sp</dimen>
+
 
 </resources>
