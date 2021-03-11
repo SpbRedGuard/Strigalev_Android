@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">notes_my</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="body_1">первое содержание</string>
+    <string name="title_one">тема 1</string>
+    <string name="body_2">другое другое содержание</string>
+    <string name="title_two">Тема2</string>
+    <string name="body_3">содержание содержание содержание содержание</string>
+    <string name="title_three">Заголовок3</string>
+
+</resources>
